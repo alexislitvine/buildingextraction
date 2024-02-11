@@ -1,0 +1,10 @@
+opencv-python>=4.5.2.54
+# (optional) if you use LSD detector !don't install opencv-python!
+# opencv-contrib-python>=4.5.2.54
+matplotlib>=3.3.4
+Pillow>=8.4.0
+tensorflow>=2.2.0
+patchify
+tqdm
+numba
+scikit-learn
