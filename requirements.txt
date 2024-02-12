@@ -8,3 +8,6 @@ patchify
 tqdm
 numba
 scikit-learn
+# for the training phase
+seaborn
+segmentation-models
