@@ -20,4 +20,9 @@ Models are available to download from the Zeonodo repository, below:
 
 Litvine, A., Starzec, A., Coustaty, M., Véronique, E., Faula, Y., & Shaw-taylor, L. (2025). Built-up areas of Britain, 1790s-1830S (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5534677
 
+The code is archived on Zenodo at: 
+[![DOI](https://zenodo.org/badge/755445148.svg)](https://zenodo.org/doi/10.5281/zenodo.10651817)
 
+#### Citation 
+
+Please quote: REF TBA
