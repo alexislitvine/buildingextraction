@@ -9,6 +9,12 @@ To install the packages from the requirements file, run in a code cell.
 !pip install -r requirements.txt
 ```
 
+#### ⚠️ NOTE
+_**yfaula_app**_ is not mandatory to use the notebooks but
+if you want to run _**yfaula_app**_(for line removal), OpenCV must be installed first by following the commands in the file name `install_opencv_commands.txt` in the directory `yfaula_app`.  
+Please take into account the installation folder and modify the path accordingly in the Makefile. Then type
+`make` to install the software.
+
 # Models
 Models are available to download from the Zeonodo repository, below:
 
